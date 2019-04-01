@@ -13,8 +13,11 @@ url from the first domain, url from the second domain, percentage of similarity 
 The output will look like the following:
 
 http://www.gazzetta.it, http://www.tuttosport.com, 100.00%
+
 http://www.gazzetta.it/messi-all-inter, http://www.tuttosport.com/l-inter-compra-messi, 46.00%
+
 http://www.gazzetta.it/udinese-esonerato-massimo-oddo, http://www.tuttosport.com/massimo-oddo-lascia-l-udinese, 55.00%
+
 http://www.gazzetta.it/il-napoli-vince-lo-scudetto, http://www.tuttosport.com/grande-sarri-scudetto-al-napoli, 21.66%
 
 
